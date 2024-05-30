@@ -3,7 +3,6 @@
 
 ![](https://komarev.com/ghpvc/?username=Disha-56843)
 
-<img src="[YOUR_VERCEL_PROJECT_DOMAIN]/[METHOD]?username=[disha-jasani-9525a6251]" />
 
 <!--
 **Disha-56843/Disha-56843** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
