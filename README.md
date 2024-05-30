@@ -3,7 +3,7 @@
 </div>
 
 <div align="center"
-  src="https://komarev.com/ghpvc/?username=Disha-56843"
+  src="https://komarev.com/ghpvc/?username=Disha-56843&style=flat-square&color=blue"
 </div>
 
 
