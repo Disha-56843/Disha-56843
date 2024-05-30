@@ -2,7 +2,9 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-<center>![](https://komarev.com/ghpvc/?username=Disha-56843)</center>
+<div align="center">
+  ![](https://komarev.com/ghpvc/?username=Disha-56843)
+</div>
 
 
 <div align="center">
