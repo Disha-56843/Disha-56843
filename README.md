@@ -12,6 +12,8 @@ Skills: HTML, CSS, Bootstrap, JQuery, C and C++
 
  - 🌱 I’m currently learning Java
 
+ - [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Disha-56843)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/disha-jasani-9525a6251//)  
+
 <!--
 **Disha-56843/Disha-56843** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
