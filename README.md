@@ -6,7 +6,9 @@
 <img src="https://komarev.com/ghpvc/?username=Disha-56843&style=flat-square&color=blue"/>
 </div>
 
-### Hi there 👋, my name is Disha
+ <div  align="center">
+ ### Hi there 👋, my name is Disha
+ </div>
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
@@ -24,9 +26,7 @@ Skills: HTML, CSS, Bootstrap, JQuery, C and C++
 
  - 🌱 I’m currently learning Java
 
-   ![Disha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Disha-56843)
-
-   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Disha-56843)
+  
 
 ---
 
@@ -47,6 +47,10 @@ Skills: HTML, CSS, Bootstrap, JQuery, C and C++
 ### :fire: My Stats :
 
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Disha-56843&theme=dark&background=000000)
+
+ ![Disha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Disha-56843)
+
+   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Disha-56843)
 
 <!--
 **Disha-56843/Disha-56843** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
