@@ -10,9 +10,7 @@ I'm dedicated to lifelong learning and development, constantly looking for ways 
 
 Skills: HTML, CSS, Bootstrap, JQuery, C and C++ 
 
-- 🔭 I’m currently working on this page. 
-
-🌱 I’m currently learning Java
+ - 🌱 I’m currently learning Java
 
 <!--
 **Disha-56843/Disha-56843** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
