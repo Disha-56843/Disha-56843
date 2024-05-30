@@ -12,7 +12,7 @@ Skills: HTML, CSS, Bootstrap, JQuery, C and C++
 
  - 🌱 I’m currently learning Java
 
-   [![Disha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Disha-56843)](https://github.com/anuraghazra/github-readme-stats)
+   [![Disha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Disha-56843)]
 
 <!--
 **Disha-56843/Disha-56843** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
