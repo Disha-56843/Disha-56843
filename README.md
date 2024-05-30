@@ -7,6 +7,15 @@
 </div>
 
 ### Hi there 👋, my name is Disha
+
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+
+---
+
+### :woman_technologist: About Me :
+
 I am a motivated and passionate newcomer, ready to start a career in design and development. With a strong background in C, C++, HTML, CSS, Javascript, JQuery, and Bootstrap, I'm prepared to share my knowledge and pick the brains of seasoned industry experts.
 
 I'm dedicated to lifelong learning and development, constantly looking for ways to increase my knowledge base and range of abilities. I work best in places that promote creativity and personal growth, whether that be through learning new technologies or improving ones I already know.
@@ -18,6 +27,10 @@ Skills: HTML, CSS, Bootstrap, JQuery, C and C++
    ![Disha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Disha-56843)
 
    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Disha-56843)
+
+---
+
+### :hammer_and_wrench: Languages and Tools :
 
    <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
