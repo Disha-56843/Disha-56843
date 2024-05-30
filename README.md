@@ -7,9 +7,7 @@
 </div>
 
 
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
+<img align="center"src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300" />
 
 ### Hi there 👋, my name is Disha
 I am a motivated and passionate newcomer, ready to start a career in design and development. With a strong background in C, C++, HTML, CSS, Javascript, JQuery, and Bootstrap, I'm prepared to share my knowledge and pick the brains of seasoned industry experts.
