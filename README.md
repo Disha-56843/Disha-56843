@@ -22,10 +22,11 @@ I'm dedicated to lifelong learning and development, constantly looking for ways 
 
 Skills: HTML, CSS, Bootstrap, JQuery, C and C++ 
 
- - 🌱 I’m currently learning Java
+- 🌱 I’m currently learning C++, React JS and Advance Java
 
-  
+- 👨‍💻 All of my projects are available at https://github.com/Disha-56843/
 
+- 📫 How to reach me https://www.linkedin.com/in/disha-jasani-9525a6251/ OR dishajasani56843@gmail.com
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
