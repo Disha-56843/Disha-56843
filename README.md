@@ -14,20 +14,7 @@
 
 ---
 
-### :woman_technologist: About Me :
 
-I am a motivated and passionate newcomer, ready to start a career in design and development. With a strong background in C, C++, HTML, CSS, Javascript, JQuery, and Bootstrap, I'm prepared to share my knowledge and pick the brains of seasoned industry experts.
-
-I'm dedicated to lifelong learning and development, constantly looking for ways to increase my knowledge base and range of abilities. I work best in places that promote creativity and personal growth, whether that be through learning new technologies or improving ones I already know.
-
-Skills: HTML, CSS, Bootstrap, JQuery, C and C++ 
-
-- 🌱 I’m currently learning C++, and Core Java
-
-- 👨‍💻 All of my projects are available at https://github.com/Disha-56843/
-
-- 📫 How to reach me https://www.linkedin.com/in/disha-jasani-9525a6251/ OR dishajasani56843@gmail.com
----
 ### :fire: My Stats :
 
  ![Disha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Disha-56843)
