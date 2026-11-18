@@ -6,22 +6,7 @@
 <img src="https://komarev.com/ghpvc/?username=Disha-56843&style=flat-square&color=blue"/>
 </div> <br />
 
- <div  align="center">
- Hi there 👋, my name is Disha
- </div> <br />
 
-
-
----
-
-
-### :fire: My Stats :
-
- ![Disha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Disha-56843)
-
-   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Disha-56843)
-
-<!--
 **Disha-56843/Disha-56843** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -34,4 +19,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
